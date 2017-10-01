@@ -12,5 +12,5 @@
 	
 Ce dossier, le code source qu'il contient ainsi que sa forme compilée sont une copie du programme réalisé par Hugo Castaneda en Mars 2017 dans le cadre d'un contrat entre le laboratoire Le2i et Merck Millipore.
 Le contenu complet de ce dossier est sous licence OSL 3.0 (Open Software License version 3.0), licence -copyleft- protégeant ses utilisateurs des brevets logiciels.
-Un exemplaire de la licence est disponible "Licence OSL 3.0.html" à la racine du dossier.
+Un exemplaire de la licence est disponible "Licence OSL 3.0.html" à la racine du dossier ou via l'adresse http://rosenlaw.com/OSL3.0-explained.htm
 Afin d'assurer la distribution gratuite et sans condition des sources de ce programme prévue par les sous-principes des licences copyleft, une copie de ce dossier a été téléchargé en ligne à l'adresse "https://github.com/hugodecasta/msImageViewer"
